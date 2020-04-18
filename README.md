@@ -1,2 +1,2 @@
 # double-dice
-If the result is the same when two dice are rolled, a ReactJS application that prints a message on the screen.
+A ReactJS app that prints out a message on the screen if the same number appears on both faces of dice.
