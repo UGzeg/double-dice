@@ -35,7 +35,7 @@ class RollDice extends Component {
             <div>
                 <h1>Roll the Dice</h1>
 
-                <Die firstDieStatus={firstDieStatus} secondDieStatus={secondDieStatus} />
+                <Die firstDieStatus={firstDieStatus} secondDieStatus={secondDieStatus} roll={this.roll} />
                 <button className="button" onClick={this.roll}> Zar At </button>
 
                 {
